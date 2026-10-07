@@ -1,0 +1,10 @@
+metric,value
+date,2026-07-01
+start_time,14:24:56
+end_time,14:27:18
+total_session_duration,2968.28s
+good_posture_percentage,1.01%
+bad_posture_percentage,98.99%
+posture_corrections,1
+alerts_triggered,2
+average_posture_status,TRACKING LOST

@@ -1,0 +1,12 @@
+metric,value
+date,2026-07-01
+start_time,22:42:58
+end_time,22:46:53
+total_session_duration,180.34s
+good_posture_percentage,13.02%
+bad_posture_percentage,86.98%
+posture_corrections,1
+alerts_triggered,1
+longest_good_streak,2.12s
+longest_bad_streak,46.31s
+average_posture_status,SLOUCHING
